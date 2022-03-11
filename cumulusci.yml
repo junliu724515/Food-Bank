@@ -3,7 +3,7 @@ project:
   name: Food-Bank
   package:
     name: Food-Bank
-    namespace: JMtestpackage
+    namespace: jmfoodbank
     api_version: '54.0'
   git:
     default_branch: 'main'
